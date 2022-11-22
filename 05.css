@@ -1,0 +1,16 @@
+/* css */
+
+.container .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* other options
+
+div p
+div .text
+.container p
+
+*/
